@@ -44,6 +44,12 @@ To solve this, I built a complete pipeline using:
 
 ---
 
+## Data Set Source
+
+- https://www.kaggle.com/datasets/beatafaron/loan-credit-risk-and-population-stability
+
+---
+
 ## 🧱 Project Structure
 
 ```bash
