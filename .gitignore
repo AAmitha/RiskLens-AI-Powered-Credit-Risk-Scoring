@@ -1,0 +1,21 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files
+*.csv
+*.xlsx
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Environment Files
+.env
+*.env
+
+# Models (optional)
+*.pkl
+
+# OS-specific
+.DS_Store
+Thumbs.db
